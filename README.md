@@ -1,4 +1,4 @@
-# Sravani_11
+# Sravanithummapudi
 <h1 align="center">Hi 👋, I'm Sravani Thummapudi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
