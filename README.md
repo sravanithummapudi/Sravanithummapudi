@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sravani Thummapudi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently working on projects with  **React js** & **Spring Boot**
 
-- 💬 Ask me about **HTML5**,**CSS3**,**JavaScript**
+- 💬 Ask me about **HTML5**,**CSS3**,**JavaScript**,**Snowflake**,**AWS**
 
 - 📫 How to reach me **tlsravani2003@gmail.com**
 
